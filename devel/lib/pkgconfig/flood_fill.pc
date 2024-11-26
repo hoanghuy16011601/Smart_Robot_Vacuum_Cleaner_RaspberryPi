@@ -1,0 +1,8 @@
+prefix=/home/hoanghuy/test_ws/devel
+
+Name: flood_fill
+Description: Description of flood_fill
+Version: 0.0.0
+Cflags: -I/home/hoanghuy/test_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
